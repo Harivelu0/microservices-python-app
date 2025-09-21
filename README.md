@@ -11,6 +11,8 @@ Converting mp4 videos to mp3 in a microservices architecture.
 
 ### Introduction
 
+<img width="2828" height="1454" alt="Screenshot 2025-04-17 220728" src="https://github.com/user-attachments/assets/539b154b-e109-4a56-a905-745ee74a0890" />
+
 This document provides a step-by-step guide for deploying a Python-based microservice application on AWS Elastic Kubernetes Service (EKS). The application comprises four major microservices: `auth-server`, `converter-module`, `database-server` (PostgreSQL and MongoDB), and `notification-server`.
 
 ### Prerequisites
